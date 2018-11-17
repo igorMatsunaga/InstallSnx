@@ -20,4 +20,4 @@ Por fim, execute o arquivo baixado:
 Installation Successful.
 Uma vez instalado com sucesso o SNX, execute a linha de comando para efetuar a conexão no servidor:
 
-snx –s <servidor> –u <loginderede>
+snx –s servidor –u loginderede

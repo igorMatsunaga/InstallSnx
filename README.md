@@ -12,7 +12,7 @@ Apt-get update
 Apt-get install oracle-java8-installer
 Apt-get install oracle-java8-set-default
 
-Em seguida acesse o site da Checkpoint e baixe o instalador no link https://supportcenter.checkpoint.com/supportcenter/portal/user/anon/page/default.psml/media-type/html?action=portlets.DCFileAction&eventSubmit_doGetdcdetails=&fileid=22824.
+Em seguida acesse o site da Checkpoint e baixe o instalador no link (neste git já contem o arquivo) https://supportcenter.checkpoint.com/supportcenter/portal/user/anon/page/default.psml/media-type/html?action=portlets.DCFileAction&eventSubmit_doGetdcdetails=&fileid=22824.
 
 Por fim, execute o arquivo baixado:
 
